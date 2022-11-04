@@ -31,7 +31,7 @@ h1 {
 }
 #header {;
   position: relative;
-  display: inline-table
+  display: inline-table;
   text-align: center;
   flex-wrap: nowrap;
   justify-content: space-between;
