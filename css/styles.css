@@ -30,7 +30,7 @@ h1 {
   background-color: #111;
 }
 #header {
-  display: flex;
+  display: inline-table;
   text-align: center;
   flex-wrap: nowrap;
   justify-content: space-between;
