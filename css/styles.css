@@ -29,9 +29,9 @@ h1 {
 #nav li a:hover {
   background-color: #111;
 }
-#header {
-  display: inline-table;
+#header {;
   position: relative;
+  display: inline-table
   text-align: center;
   flex-wrap: nowrap;
   justify-content: space-between;
