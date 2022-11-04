@@ -29,7 +29,7 @@ h1 {
 #nav li a:hover {
   background-color: #111;
 }
-#header {;
+#header {
   position: relative;
   display: inline-table;
   text-align: center;
