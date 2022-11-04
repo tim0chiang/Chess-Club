@@ -43,9 +43,9 @@ h1 {
 }
 p {
   position: relative;
-  top: 20rem;
+  top: 15rem;
   color: #9f9f9f;
-  margin-top: 20rem;
+  margin: 20rem 0;
   font-size: 2rem;
   text-align: center;
 }
