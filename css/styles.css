@@ -41,7 +41,7 @@ h1 {
   height: 20%;
   background-image: url(../images/chessboard.avif);
 }
-p {
+.introduction {
   position: relative;
   top: 4rem;
   color: #9f9f9f;
